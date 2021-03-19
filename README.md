@@ -1,8 +1,8 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/OutliersTeam/<repo-name>)
+![GitHub contributors](https://img.shields.io/github/contributors/OutliersTeam/<repo-name>)
 <!--
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
@@ -58,6 +58,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 * [@BhuvanashreeM](https://github.com/BhuvanashreeM) 🦅
 * [@SaiNikhileshReddy](https://github.com/SaiNikhileshReddy) 🦊
+* [@KodeJaiSurya](https://github.com/KodeJaiSurya) 🦊
 
 <!--You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).-->
 
